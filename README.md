@@ -5,6 +5,6 @@ This project is an attendance system which provides attendance on scanning QR co
 * To exit the scanner press 'q' in your keyboard.
 
 # Requirements
-Python 3.x
-OpenCV
-pyzbar
+* Python 3.x
+* OpenCV
+* pyzbar
