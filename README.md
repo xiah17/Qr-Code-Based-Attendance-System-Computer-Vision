@@ -6,5 +6,7 @@ This project is an attendance system which provides attendance on scanning QR co
 
 # Requirements
 Python 3.x
+
 OpenCV
+
 pyzbar
