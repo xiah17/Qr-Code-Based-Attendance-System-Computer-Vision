@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/opencvProj.iml" filepath="$PROJECT_DIR$/.idea/opencvProj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Qr-Code-Based-Attendance-System-Computer-Vision.iml" filepath="$PROJECT_DIR$/.idea/Qr-Code-Based-Attendance-System-Computer-Vision.iml" />
     </modules>
   </component>
 </project>

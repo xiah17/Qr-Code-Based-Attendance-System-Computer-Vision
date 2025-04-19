@@ -35,7 +35,7 @@ def scan_qr():
                 df = pd.concat([df, pd.DataFrame([[qr_data, date, time]], columns=df.columns)], ignore_index=True)
                 print(f"Recorded: {qr_data} at {time} on {date}")
 
-	        # Display the QR Code data on the video frame
+            # Display the QR Code data on the video frame
             cv2.putText(frame, qr_data, (qr_code.rect.left, qr_code.rect.top - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5,
                         (0, 255, 0), 2)
 
